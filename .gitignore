@@ -1,0 +1,13 @@
+# secrets
+.env
+
+# python
+venv/
+__pycache__/
+
+# notebooks
+.ipynb_checkpoints/
+
+# data and model files
+data/
+*.pt
