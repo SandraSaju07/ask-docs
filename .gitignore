@@ -15,5 +15,5 @@ data/
 # data file to exclude
 !data/sample.jsonl
 
-# Sample file to exclude 
-chunks.py
+# Log file to exclude
+*.log
