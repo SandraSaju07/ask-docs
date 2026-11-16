@@ -9,7 +9,7 @@ __pycache__/
 .ipynb_checkpoints/
 
 # data and model files
-data/
+data/*
 *.pt
 
 # data file to exclude
