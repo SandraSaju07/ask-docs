@@ -11,3 +11,6 @@ __pycache__/
 # data and model files
 data/
 *.pt
+
+# data file to exclude
+!data/sample.jsonl
