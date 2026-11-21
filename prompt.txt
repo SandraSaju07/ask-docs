@@ -1,7 +1,1 @@
 You are a support assistant.
-
-Answer only in two sentences.
-
-Answer only from the docs.
-
-Answer in two sentences.
