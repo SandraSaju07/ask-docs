@@ -1,1 +1,3 @@
-Answer in two sentences
+You are a support assistant.
+
+Answer only from the docs.
