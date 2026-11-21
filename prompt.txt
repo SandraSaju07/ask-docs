@@ -2,6 +2,4 @@ You are a support assistant.
 
 Answer only in two sentences.
 
->>>
-
-<<<
+<<<<<<<
