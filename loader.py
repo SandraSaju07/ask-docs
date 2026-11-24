@@ -1,4 +1,4 @@
-chunk_size = 500
+chunk_size = 400
 
 prompt_size = 100
 
