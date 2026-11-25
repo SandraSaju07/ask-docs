@@ -1,3 +1,3 @@
-This is a new text file
+This is a new text file.
 
-sample line
+Some content added here now.
