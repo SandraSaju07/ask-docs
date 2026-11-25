@@ -1,1 +1,1 @@
-try a shorter prompt
+Simple Git Tutorial
