@@ -1,1 +1,1 @@
-chunk_size = 200
+chunk_size = 250
